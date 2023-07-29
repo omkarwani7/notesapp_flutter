@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# Description -
+Created a chatting app that lets people create and read notes using open-source framework Flutter to build the applications user interface (UI) and Firebase for backend services.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
